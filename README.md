@@ -22,6 +22,6 @@ Derived DC operating points, transconductance, and small-signal gain through han
 Sized transistors and biasing resistors to satisfy per-stage gain, saturation margin, and current constraints
 Built and simulated the full circuit in SPICE (transient and AC analysis) to verify gain, bandwidth, output swing, and power against the design specifications
 Compared hand-calculated values against simulated results to validate the design methodology and account for non-ideal effects (channel-length modulation, parasitic capacitance)
-Tools Used
 
-SPICE, KiCad
+
+SPICE, KiCa

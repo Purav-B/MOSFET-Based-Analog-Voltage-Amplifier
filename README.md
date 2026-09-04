@@ -6,7 +6,8 @@ Overview:
 
 This project implements a multi-stage MOSFET amplifier operating from a single 3.3V supply. The design cascades three common-source gain stages with a common-drain output buffer, balancing high open-loop gain against bandwidth, output swing, and power constraints — all without the use of feedback.
 
-Design Specifications
+Design Specifications:
+
 Supply Voltage: Single 3.3V supply (NMOS only)
 Minimum Open-Loop Gain: ≥ 60 dB (≥ 1000 V/V)
 Gain per Stage: ≤ 40 dB
